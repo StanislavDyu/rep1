@@ -1,1 +1,3 @@
-# rep1
+# rep1 
+Neco
+Počitačni cvičeni
